@@ -25,7 +25,7 @@ console.log( multiplica(soma(4, 5), soma(3, 3)));
 
 //denis Leonardo
 
-function soma(numero1 + numero2) {
+function soma(numero1, numero2) {
     return soma();
     
 }
